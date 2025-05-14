@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Cuenta.h
+string
+-
+
+../include/Persona.h
+Cuenta.h
+../include/Cuenta.h
+string
+-
+
+/workspaces/null/punteros/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+Cuenta.h
+/workspaces/null/punteros/Cuenta.h
+Persona.h
+/workspaces/null/punteros/Persona.h
+

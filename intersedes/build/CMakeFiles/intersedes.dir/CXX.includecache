@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Basketbolista.h
+Deportista.h
+../include/Deportista.h
+string
+-
+
+../include/Deportista.h
+iostream
+-
+string
+-
+
+../include/Futbolista.h
+Deportista.h
+../include/Deportista.h
+string
+-
+
+/workspaces/null/intersedes/src/Basketbolista.cpp
+Basketbolista.h
+/workspaces/null/intersedes/src/Basketbolista.h
+
+/workspaces/null/intersedes/src/Deportista.cpp
+Deportista.h
+/workspaces/null/intersedes/src/Deportista.h
+
+/workspaces/null/intersedes/src/Futbolista.cpp
+Futbolista.h
+/workspaces/null/intersedes/src/Futbolista.h
+

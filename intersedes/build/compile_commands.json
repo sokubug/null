@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/workspaces/null/intersedes/build",
+  "command": "/usr/bin/g++   -I/workspaces/null/intersedes/include  -g   -o CMakeFiles/intersedes.dir/main.cpp.o -c /workspaces/null/intersedes/main.cpp",
+  "file": "/workspaces/null/intersedes/main.cpp"
+},
+{
+  "directory": "/workspaces/null/intersedes/build",
+  "command": "/usr/bin/g++   -I/workspaces/null/intersedes/include  -g   -o CMakeFiles/intersedes.dir/src/Basketbolista.cpp.o -c /workspaces/null/intersedes/src/Basketbolista.cpp",
+  "file": "/workspaces/null/intersedes/src/Basketbolista.cpp"
+},
+{
+  "directory": "/workspaces/null/intersedes/build",
+  "command": "/usr/bin/g++   -I/workspaces/null/intersedes/include  -g   -o CMakeFiles/intersedes.dir/src/Deportista.cpp.o -c /workspaces/null/intersedes/src/Deportista.cpp",
+  "file": "/workspaces/null/intersedes/src/Deportista.cpp"
+},
+{
+  "directory": "/workspaces/null/intersedes/build",
+  "command": "/usr/bin/g++   -I/workspaces/null/intersedes/include  -g   -o CMakeFiles/intersedes.dir/src/Futbolista.cpp.o -c /workspaces/null/intersedes/src/Futbolista.cpp",
+  "file": "/workspaces/null/intersedes/src/Futbolista.cpp"
+},
+{
+  "directory": "/workspaces/null/intersedes/build",
+  "command": "/usr/bin/g++   -I/workspaces/null/intersedes/include  -g   -o CMakeFiles/intersedes.dir/src/Nadador.cpp.o -c /workspaces/null/intersedes/src/Nadador.cpp",
+  "file": "/workspaces/null/intersedes/src/Nadador.cpp"
+}
+]

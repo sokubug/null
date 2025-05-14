@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/null/practica/build",
+  "command": "/usr/bin/g++   -I/workspaces/null/practica/include  -g   -o CMakeFiles/practica.dir/main.cpp.o -c /workspaces/null/practica/main.cpp",
+  "file": "/workspaces/null/practica/main.cpp"
+}
+]

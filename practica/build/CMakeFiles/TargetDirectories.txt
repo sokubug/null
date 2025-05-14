@@ -1,0 +1,3 @@
+/workspaces/null/practica/build/CMakeFiles/rebuild_cache.dir
+/workspaces/null/practica/build/CMakeFiles/edit_cache.dir
+/workspaces/null/practica/build/CMakeFiles/practica.dir

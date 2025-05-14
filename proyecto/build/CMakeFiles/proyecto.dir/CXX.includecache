@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Ahorcado.h
+Juego.h
+../include/Juego.h
+string
+-
+vector
+-
+
+../include/Juego.h
+string
+-
+
+/workspaces/null/proyecto/main.cpp
+iostream
+-
+memory
+-
+Ahorcado.h
+/workspaces/null/proyecto/Ahorcado.h
+
+/workspaces/null/proyecto/src/Ahorcado.cpp
+Ahorcado.h
+/workspaces/null/proyecto/src/Ahorcado.h
+iostream
+-
+fstream
+-
+ctime
+-
+

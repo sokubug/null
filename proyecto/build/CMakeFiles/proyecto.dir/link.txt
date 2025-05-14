@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/proyecto.dir/main.cpp.o CMakeFiles/proyecto.dir/src/Ahorcado.cpp.o CMakeFiles/proyecto.dir/src/Juego.cpp.o  -o proyecto 

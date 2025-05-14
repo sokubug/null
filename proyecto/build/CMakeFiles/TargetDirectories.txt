@@ -1,0 +1,3 @@
+/workspaces/null/proyecto/build/CMakeFiles/rebuild_cache.dir
+/workspaces/null/proyecto/build/CMakeFiles/edit_cache.dir
+/workspaces/null/proyecto/build/CMakeFiles/proyecto.dir
